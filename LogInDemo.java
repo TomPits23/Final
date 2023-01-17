@@ -93,7 +93,7 @@ class LogIn extends JFrame{
 
                 if (matched) {
                     
-                    mes.setText("Pesonel Confirmed!");
+                    mes.setText("Personel Confirmed!");
                     
                  } else {
                     mes.setText("Invalid UserID or Password!");
